@@ -1,0 +1,5 @@
+# filepath: /c:/Users/josha/Documents/arbeit/Email_adapter(dev)/backend/requirements.txt
+Flask==2.2.2
+cryptography==39.0.1
+python-dotenv==1.0.0
+requests==2.31.0

@@ -1,0 +1,16 @@
+{
+    "backend_url": "http://localhost:5000",
+    "pop3_server": "pop.gmail.com",
+    "pop3_port": 995,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "username": "verschlüsselter_benutzername",  
+    "password": "verschlüsseltes_passwort",  
+    "internal_smtp_server": "internal.smtp.server", 
+    "internal_smtp_port": 25,
+    "interval": 5,
+    "default_dynamic_ip": false,
+    "default_use_pop3": true,
+    "default_use_dns": false
+}
+
